@@ -1,0 +1,15 @@
+- title: Game of Thrones
+  docs:
+  - home
+
+- title: Getting Started
+  docs:
+  - welcome
+  - themes
+  - customization
+
+- title: Examples
+  docs:
+  - cheatsheet
+  - font-awesome
+  - bootstrap
